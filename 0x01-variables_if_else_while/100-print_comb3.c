@@ -12,7 +12,7 @@ int main(void)
 	while (i < 0)
 	{
 		j - i % 10
-		k = i  10;
+		k = i / 10;
 		if (k < j)
 		{
 			putchar(k + '0');
